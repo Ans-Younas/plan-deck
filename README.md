@@ -32,30 +32,30 @@ It helps users break complex goals into smaller, dependent tasks — bringing st
 
 PlanDeck follows a **Clean MVVM-inspired architecture** integrated with Provider.
 
-lib/
-│
-├── main.dart
-│
-├── models/
-│ └── task_model.dart # Task data model (Hive object)
-│
-├── providers/
-│ ├── task_provider.dart # CRUD + business logic
-│ └── theme_provider.dart # Dark/light mode management
-│
-├── screens/
-│ ├── task_list_screen.dart # Home screen
-│ ├── add_edit_task_screen.dart # Create/edit tasks
-│ └── settings_screen.dart # Theme toggle
-│
-├── widgets/
-│ ├── task_tile.dart # Individual task item
-│ ├── dependency_selector.dart # Task dependency input
-│ └── empty_state.dart # Placeholder when no tasks exist
-│
-└── theme/
-├── app_theme.dart # Theme definitions
-└── theme_colors.dart # Color palette
+- lib/
+- │
+- ├── main.dart
+- │
+- ├── models/
+- │ └── task_model.dart # Task data model (Hive object)
+- │
+- ├── providers/
+- │ ├── task_provider.dart # CRUD + business logic
+- │ └── theme_provider.dart # Dark/light mode management
+- │
+- ├── screens/
+- │ ├── task_list_screen.dart # Home screen
+- │ ├── add_edit_task_screen.dart # Create/edit tasks
+- │ └── settings_screen.dart # Theme toggle
+- │
+- ├── widgets/
+- │ ├── task_tile.dart # Individual task item
+- │ ├── dependency_selector.dart # Task dependency input
+- │ └── empty_state.dart # Placeholder when no tasks exist
+- 
+- └── theme/
+- ├── app_theme.dart # Theme definitions
+- └── theme_colors.dart # Color palette
 
 
 This separation ensures:
@@ -96,16 +96,17 @@ flutter run
 
 🧠 AI-powered “auto-task planner” suggestions
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Ans Younas (Ana De Mayhem)
-Flutter & FlutterFlow Developer | Software Engineer
-📍 Pakistan
-🔗 GitHub Profile
+# Ans Younas 
+- Flutter & FlutterFlow Developer
+- Software Engineer
+- 📍 Punjab, Pakistan
+- 🔗 [GitHub Profile](https://github.com/Ans-Younas/)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ans-younas/)
 
 ---
 
 This version clearly shows **Hive + Provider integration** and **offline-first design**, which immediately signals to recruiters that you understand real-world app architecture.  
 
-Would you like me to design a **short description + tagline** (1–2 lines) for your GitHub repo and project card — the kind that hooks instantly, e.g. *“PlanDeck – A dependency-aware task planner that brings order to chaos.”*?
 
