@@ -106,7 +106,6 @@ flutter run
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ans-younas/)
 
 ---
-
-This version clearly shows **Hive + Provider integration** and **offline-first design**, which immediately signals to recruiters that you understand real-world app architecture.  
+ 
 
 
